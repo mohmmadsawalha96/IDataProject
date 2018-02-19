@@ -1,0 +1,9 @@
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\B.A.L\bin\Debug\B.A.L.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\B.A.L\bin\Debug\B.A.L.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\B.A.L\bin\Debug\ClassLibrary1.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\B.A.L\bin\Debug\ClassLibrary1.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\B.A.L\obj\Debug\B.A.L.csprojResolveAssemblyReference.cache
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\B.A.L\obj\Debug\B.A.L.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\B.A.L\obj\Debug\B.A.L.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\B.A.L\bin\Debug\DB helper.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\B.A.L\bin\Debug\DB helper.pdb

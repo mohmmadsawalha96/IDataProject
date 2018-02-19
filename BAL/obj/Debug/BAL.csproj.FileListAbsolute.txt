@@ -1,0 +1,56 @@
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\B.A.L\bin\Debug\B.A.L.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\B.A.L\bin\Debug\B.A.L.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\B.A.L\bin\Debug\ClassLibrary1.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\B.A.L\bin\Debug\DB helper.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\B.A.L\bin\Debug\ClassLibrary1.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\B.A.L\bin\Debug\DB helper.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\B.A.L\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\B.A.L\obj\Debug\B.A.L.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\B.A.L\obj\Debug\B.A.L.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\B.A.L\bin\Debug\Entity.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\B.A.L\bin\Debug\Entity.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\B.A.L\bin\Debug\BAL.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\B.A.L\bin\Debug\BAL.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\B.A.L\bin\Debug\ClassLibrary1.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\B.A.L\bin\Debug\Entity.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\B.A.L\bin\Debug\DB helper.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\B.A.L\bin\Debug\ClassLibrary1.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\B.A.L\bin\Debug\Entity.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\B.A.L\bin\Debug\DB helper.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\B.A.L\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\B.A.L\obj\Debug\BAL.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\B.A.L\obj\Debug\BAL.pdb
+E:\Idata\B.A.L\bin\Debug\BAL.dll
+E:\Idata\B.A.L\bin\Debug\BAL.pdb
+E:\Idata\B.A.L\bin\Debug\ClassLibrary1.dll
+E:\Idata\B.A.L\bin\Debug\Entity.dll
+E:\Idata\B.A.L\bin\Debug\DB helper.dll
+E:\Idata\B.A.L\bin\Debug\ClassLibrary1.pdb
+E:\Idata\B.A.L\bin\Debug\Entity.pdb
+E:\Idata\B.A.L\bin\Debug\DB helper.pdb
+E:\Idata\B.A.L\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+E:\Idata\B.A.L\obj\Debug\BAL.dll
+E:\Idata\B.A.L\obj\Debug\BAL.pdb
+E:\Idata\BAL\bin\Debug\BAL.dll
+E:\Idata\BAL\bin\Debug\BAL.pdb
+E:\Idata\BAL\bin\Debug\ClassLibrary1.dll
+E:\Idata\BAL\bin\Debug\Entity.dll
+E:\Idata\BAL\bin\Debug\DB helper.dll
+E:\Idata\BAL\bin\Debug\ClassLibrary1.pdb
+E:\Idata\BAL\bin\Debug\Entity.pdb
+E:\Idata\BAL\bin\Debug\DB helper.pdb
+E:\Idata\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+E:\Idata\BAL\obj\Debug\BAL.dll
+E:\Idata\BAL\obj\Debug\BAL.pdb
+D:\IData\Idata\BAL\bin\Debug\BAL.dll
+D:\IData\Idata\BAL\bin\Debug\BAL.pdb
+D:\IData\Idata\BAL\bin\Debug\DAL.dll
+D:\IData\Idata\BAL\bin\Debug\Entity.dll
+D:\IData\Idata\BAL\bin\Debug\DB helper.dll
+D:\IData\Idata\BAL\bin\Debug\MySql.Data.dll
+D:\IData\Idata\BAL\bin\Debug\DAL.pdb
+D:\IData\Idata\BAL\bin\Debug\Entity.pdb
+D:\IData\Idata\BAL\bin\Debug\DB helper.pdb
+D:\IData\Idata\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\IData\Idata\BAL\obj\Debug\BAL.dll
+D:\IData\Idata\BAL\obj\Debug\BAL.pdb

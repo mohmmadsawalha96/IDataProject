@@ -1,0 +1,5 @@
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\DB helper\bin\Debug\DB helper.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\DB helper\bin\Debug\DB helper.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\DB helper\obj\Debug\DB helper.csprojResolveAssemblyReference.cache
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\DB helper\obj\Debug\DB helper.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\DB helper\obj\Debug\DB helper.pdb

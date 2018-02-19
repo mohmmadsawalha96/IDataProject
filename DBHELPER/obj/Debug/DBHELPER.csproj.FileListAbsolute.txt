@@ -1,0 +1,26 @@
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\DB helper\bin\Debug\DB helper.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\DB helper\bin\Debug\DB helper.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\DB helper\obj\Debug\DB helper.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\WebSite2\DB helper\obj\Debug\DB helper.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\DBHELPER\bin\Debug\DB helper.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\DBHELPER\bin\Debug\DB helper.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\DBHELPER\bin\Debug\Entity.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\DBHELPER\bin\Debug\Entity.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\DBHELPER\obj\Debug\DBHELPER.csprojResolveAssemblyReference.cache
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\DBHELPER\obj\Debug\DB helper.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\DBHELPER\obj\Debug\DB helper.pdb
+E:\Idata\DBHELPER\bin\Debug\DB helper.dll
+E:\Idata\DBHELPER\bin\Debug\DB helper.pdb
+E:\Idata\DBHELPER\bin\Debug\Entity.dll
+E:\Idata\DBHELPER\bin\Debug\Entity.pdb
+E:\Idata\DBHELPER\obj\Debug\DBHELPER.csprojResolveAssemblyReference.cache
+E:\Idata\DBHELPER\obj\Debug\DB helper.dll
+E:\Idata\DBHELPER\obj\Debug\DB helper.pdb
+D:\IData\Idata\DBHELPER\bin\Debug\DB helper.dll
+D:\IData\Idata\DBHELPER\bin\Debug\DB helper.pdb
+D:\IData\Idata\DBHELPER\bin\Debug\Entity.dll
+D:\IData\Idata\DBHELPER\bin\Debug\mysql.data.dll
+D:\IData\Idata\DBHELPER\bin\Debug\Entity.pdb
+D:\IData\Idata\DBHELPER\obj\Debug\DBHELPER.csprojResolveAssemblyReference.cache
+D:\IData\Idata\DBHELPER\obj\Debug\DB helper.dll
+D:\IData\Idata\DBHELPER\obj\Debug\DB helper.pdb
