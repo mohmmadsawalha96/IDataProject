@@ -1,0 +1,1188 @@
+﻿
+/*#region body and html*/
+body {
+    font-family: Courier New, Courier, monospace;
+    color: #a09494;
+    overflow: hidden;
+}
+
+nav {
+    display: block;
+}
+
+h1 {
+    font-family: Courier New, Courier, monospace;
+    color: #40627f;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a {
+    color: #0060B6;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+.nav__menu_icons > ul > li {
+    list-style: none;
+    box-shadow: 0 0 0px rgba(100, 100, 100, 0.2) inset,0px 0px 0px #CCC;
+    display: inline-block;
+    line-height: 1;
+    margin: 1px;
+    border-radius: 3px;
+    float: right;
+    padding: 2px;
+}
+
+.nav__menu_icons .Left-side {
+    float: left;
+    display: inline-block;
+    padding: 1px;
+}
+
+.navbar-fixed-bottom, .navbar-fixed-top {
+    z-index: 0;
+}
+
+.logo-container {
+    width: 100%;
+    background-color: rgba(4, 2, 3, 0.19);
+}
+
+.fa-cloud-upload:before {
+    cursor: pointer;
+}
+
+/*#region events*/
+
+a:hover {
+    color: #00A0C6;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/*#endregion*/
+
+/*#endregion*/
+
+/*#region modals*/
+.modal-backdrop {
+    z-index: 0;
+}
+
+.modal-dialog {
+    width: 340px;
+    position: relative;
+    margin-top: 20%;
+}
+
+.modal-dialog {
+    width: 600px;
+}
+
+.bigImageView {
+    position: absolute;
+    display: block;
+    width: 500px;
+    height: 500px;
+    z-index: 15;
+    top: 50%;
+    left: 50%;
+    margin: 0px 0 0 -250px;
+}
+
+/*#endregion Defult Image-Container*/
+
+/*#region body Bootstrap*/
+
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 0;
+    padding-left: 15px;
+}
+
+/*#endregion MediaQ*/
+
+/*#region banners and loading bar*/
+.progress-striped .progress-bar-custom {
+    background-color: #40627f;
+}
+
+.progress {
+    background: #3B83F7;
+    background: -webkit-linear-gradient(top, rgba(186, 208, 214, 1) 0%, rgba(100, 163, 184, 1) 100%);
+    background: linear-gradient(to bottom, rgb(208, 207, 208) 0%, rgba(100, 163, 184, 1) 100%);
+    border: 0px solid rgb(255, 255, 255);
+    border-radius: 0;
+    height: 4px;
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+progress-bars.less:31 .progress {
+    height: 20px;
+    margin-bottom: 0;
+    overflow: hidden;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+}
+
+.list-group-item {
+    background: none;
+    margin: 0 !important;
+    border: none;
+}
+
+
+.Map-bar ul li:hover {
+    background: #12677a;
+}
+
+.Map-bar a {
+    color: #40627f;
+    font-family: Courier New, Courier, monospace;
+}
+
+    .Map-bar a:hover {
+        color: inherit;
+    }
+
+.Map-bar {
+    font-family: Courier New, Courier, monospace;
+    font-size: 18px;
+    border: none;
+    float: left;
+    width: auto;
+    background: none;
+    opacity: 1;
+}
+
+.image-upload > input {
+    display: none;
+}
+
+.file-input {
+    display: none;
+}
+
+
+.navTools {
+    top: 20px;
+    border-radius: 15%;
+}
+
+
+social-banner:hover {
+    background-color: green;
+}
+
+.social-banner .Downloadbutton {
+    display: none;
+}
+
+.social-banner .Delete {
+    display: none;
+}
+
+.social-banner .Left-side {
+    float: left;
+    display: inline-block;
+    padding: 4px;
+    transition: 0.5s ease;
+}
+
+.icon {
+    position: relative;
+    width: 32px;
+    height: 32px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: #3500d3;
+}
+
+.social-banner ul li:hover {
+    cursor: pointer;
+}
+
+.social-banner ul li {
+    float: right;
+    display: inline-block;
+    display: inline-block;
+    padding: 0;
+    transition: 0.5s ease;
+    border: none;
+    font-size: 22px;
+}
+
+.social-banner {
+    position: relative;
+    margin-top: 0px;
+    background-color: rgba(4, 2, 3, 0.19);
+    float: right;
+    width: auto;
+    font-size: 20px;
+    margin-right: 0;
+    height: auto;
+    border: none;
+}
+
+/*#endregion*/
+
+/*#region MediaQ*/
+
+@media(min-width:413px) {
+    .ImageBlock + .thumbnail {
+        height: 100.19px;
+        width: 144.25px;
+    }
+
+    .noBackground {
+        background: none;
+    }
+
+    .pre-scrollable {
+        overflow-y: auto;
+    }
+
+    body {
+        overflow: hidden;
+    }
+}
+
+@media(min-width:576px) {
+
+    .ImageBlock + .thumbnail {
+        height: 100.19px;
+        width: 152.25px;
+    }
+
+    .noBackground {
+        background: none;
+    }
+
+    .pre-scrollable {
+        overflow-y: auto;
+    }
+
+    body {
+        overflow: hidden;
+    }
+}
+
+@media(min-width:768px) {
+
+    .noBackground {
+        background: none;
+    }
+
+    .ImageBlock + .thumbnail {
+        height: 129.19px;
+        width: 159.25px;
+    }
+
+    .pre-scrollable {
+        overflow-y: auto;
+    }
+
+    body {
+        overflow: hidden;
+    }
+}
+
+@media(min-width:992px) {
+    .noBackground {
+        background: none;
+    }
+
+    .ImageBlock + .thumbnail {
+        height: 129.19px;
+        width: 159.25px;
+    }
+
+    .pre-scrollable {
+        overflow-y: auto;
+    }
+
+    body {
+        overflow: hidden;
+    }
+}
+
+@media(min-width:1200px) {
+
+    .noBackground {
+        background: none;
+    }
+
+    .ImageBlock + .thumbnail {
+        height: 129.19px;
+        width: 159.25px;
+    }
+
+    .pre-scrollable {
+        overflow-y: auto;
+    }
+
+    body {
+        overflow: hidden;
+    }
+}
+/*#endregion*/
+
+/*#region the Data Container*/
+
+/*#region scroll CSS and img */
+
+#scoroll-style-14::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.6);
+    background-color: #CCCCCC;
+}
+
+#scoroll-style-14::-webkit-scrollbar {
+    width: 10px;
+    background-color: #F5F5F5;
+}
+
+#scoroll-style-14::-webkit-scrollbar-thumb {
+    background-color: #FFF;
+    background-image: -webkit-linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 25%, transparent 100%, rgba(0, 0, 0, 1) 75%, transparent);
+}
+
+img {
+    height: 100%;
+}
+
+/*#endregion*/
+
+/*#region Grid Image-Container*/
+.ImageUL {
+    display: block !important;
+    width: 100%;
+    margin-left: -34px;
+    /*width : 80%;
+    position: absolute;
+    margin-left  :150px;
+    margin-top :40px;*/
+}
+
+.ImageBlocks-container li {
+    display: inline-grid;
+    position: relative;
+}
+
+#Image_block {
+    width: 190px;
+    max-width: 190px;
+}
+
+.ImageBlock {
+    z-index: 0;
+    border-radius: 5px;
+    margin-bottom: 0px;
+    margin-right: 0;
+}
+
+    .ImageBlock :hover .container_Tools {
+        height: 25px;
+    }
+
+.Folder-Block :hover .container_Tools {
+    bottom: 90%;
+    height: 25px;
+}
+
+.Folder-Block {
+    z-index: 0;
+    margin-bottom: 0px;
+    margin-right: 0;
+}
+
+.FolderThumbnail {
+    position: relative;
+    width: 200px;
+    height: 150px;
+    overflow: hidden;
+}
+
+#info-container {
+    overflow: hidden;
+    white-space: nowrap;
+    font-size: 18px;
+    margin-bottom: 5px;
+    width: 144px;
+    margin-top: -8px;
+    margin-left: 9px;
+    border-color: black;
+    color: #40627f;
+}
+
+    #info-container a {
+        color: #12677a;
+    }
+
+.bigFolderIcon {
+    position: relative;
+    width: 160px;
+    height: 150px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    overflow: hidden;
+    font-size: 140px;
+}
+
+.thumbnail {
+    position: relative;
+    width: auto;
+    height: 129.19px;
+    width: 159.25px;
+    background: none;
+    border: none;
+    margin-bottom: 6px;
+}
+
+.pre-scrollable {
+    max-height: 650px;
+}
+
+.thumbnail img {
+    height: auto;
+    display: block;
+    width: 100%;
+}
+
+.col-imageHolder {
+    float: right;
+    display: inline-block;
+    width: auto;
+    overflow-y: scroll;
+    width: 100%;
+    border-top: thin;
+    border-top-color: #b7c5d2;
+    border-style: double;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+.container_Tools {
+    padding-right: 0;
+    position: absolute;
+    top: 0;
+    height: 0;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    background: black;
+    opacity: 0.7;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    margin-left: 3px;
+    margin-top: 4px;
+    width: 96%;
+    overflow: hidden;
+    z-index: 1;
+}
+/*#endregion*/
+
+/*#region List Image-Container*/
+.ListView .ImageBlock {
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.ListView #info-container {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    border-color: black;
+    width: auto;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 18px;
+    text-align: left;
+    color: initial;
+}
+
+.ListView .thumbnail {
+    height: 32px;
+    width: 32px;
+    z-index: 1;
+    margin-left: 9px;
+    border: none;
+    background: none;
+}
+
+.ListView #info-container a {
+    color: #12677a;
+}
+
+.ListView .container_Tools {
+    background: none;
+    margin: auto;
+    padding-top: 2px;
+    padding-right: 0;
+    position: absolute;
+    height: 25px;
+    bottom: 0;
+    left: 1px;
+    right: 0px;
+    top: 0;
+    text-align: center;
+    color: #0C0032;
+    font-size: 18px;
+    margin-bottom: 0;
+    margin-top: 10px;
+    padding-bottom: 0;
+    width: 100%;
+    border: 25px;
+    border-radius: 7px;
+    z-index: 0;
+}
+
+.ListView .Folder-Block {
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.ListView.bigFolder {
+    background: red;
+    display: block;
+}
+
+.ListView .FolderThumbnail {
+    height: 32px;
+    width: 32px;
+    z-index: 1;
+    margin-left: 9px;
+}
+
+.ListView .bigFolderIcon {
+    height: 32px;
+    width: 32px;
+    position: absolute;
+    margin-top: -9px;
+    margin-left: 9px;
+    z-index: 1;
+    font-size: 25px;
+}
+
+.ListView .Folder-Block :hover .bigFolderIcon {
+    z-index: 1;
+    font-size: 25px;
+    color: #45698f;
+}
+
+/*#endregion*/
+/*#endregion*/
+
+
+
+
+
+
+
+.modal-dialog {
+    width: 600px;
+}
+
+body {
+    font-family: Courier New, Courier, monospace;
+    color: #a09494;
+    overflow: hidden;
+}
+
+.logo-container {
+    width: 100%;
+    background-color: rgba(4, 2, 3, 0.19);
+}
+
+.progress-striped .progress-bar-custom {
+    background-color: #40627f;
+}
+
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 0;
+    padding-left: 15px;
+}
+
+.progress {
+    background: #3B83F7;
+    background: -webkit-linear-gradient(top, rgba(186, 208, 214, 1) 0%, rgba(100, 163, 184, 1) 100%);
+    background: linear-gradient(to bottom, rgb(208, 207, 208) 0%, rgba(100, 163, 184, 1) 100%);
+    border: 0px solid rgb(255, 255, 255);
+    border-radius: 0;
+    height: 4px;
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+progress-bars.less:31 .progress {
+    height: 20px;
+    margin-bottom: 0;
+    overflow: hidden;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+}
+
+
+
+.thumbnail {
+    position: relative;
+    width: auto;
+    height: 129.19px;
+    width: 159.25px;
+    background: none;
+    border: none;
+    margin-bottom: 6px;
+}
+
+.pre-scrollable {
+    max-height: 650px;
+}
+
+.thumbnail img {
+    height: auto;
+    display: block;
+    width: 100%;
+}
+
+nav {
+    display: block;
+}
+
+.navbar-fixed-bottom, .navbar-fixed-top {
+    z-index: 0;
+}
+
+.modal-backdrop {
+    z-index: 0;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+.nav__menu_icons > ul > li {
+    list-style: none;
+    box-shadow: 0 0 0px rgba(100, 100, 100, 0.2) inset,0px 0px 0px #CCC;
+    display: inline-block;
+    line-height: 1;
+    margin: 1px;
+    border-radius: 3px;
+    float: right;
+    padding: 2px;
+}
+
+
+.nav__menu_icons .Left-side {
+    float: left;
+    display: inline-block;
+    padding: 1px;
+}
+
+.col-imageHolder {
+    float: right;
+    display: inline-block;
+    width: auto;
+    overflow-y: scroll;
+    width: 100%;
+    border-top: thin;
+    border-top-color: #b7c5d2;
+    border-style: double;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+.col-leftcontent {
+    float: left;
+    display: inline-block;
+}
+
+img {
+    height: 100%;
+}
+
+.container_Tools {
+    padding-right: 0;
+    position: absolute;
+    top: 0;
+    height: 0;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    background: black;
+    opacity: 0.7;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    margin-left: 3px;
+    margin-top: 4px;
+    width: 96%;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.fa-cloud-upload:before {
+    cursor: pointer;
+}
+
+.ImageUL {
+    display: block !important;
+    width: 100%;
+    margin-left: -34px;
+    /*width : 80%;
+    position: absolute;
+    margin-left  :150px;
+    margin-top :40px;*/
+}
+
+.ImageBlocks-container li {
+    display: inline-grid;
+    position: relative;
+}
+
+#Image_block {
+    width: 190px;
+    max-width: 190px;
+}
+
+.ImageBlock {
+    z-index: 0;
+    border-radius: 5px;
+    margin-bottom: 0px;
+    margin-right: 0;
+}
+
+    .ImageBlock :hover .container_Tools {
+        height: 25px;
+    }
+
+.Folder-Block :hover .container_Tools {
+    bottom: 90%;
+    height: 25px;
+}
+
+
+
+.Folder-Block {
+    z-index: 0;
+    margin-bottom: 0px;
+    margin-right: 0;
+}
+
+.FolderThumbnail {
+    position: relative;
+    width: 200px;
+    height: 150px;
+    overflow: hidden;
+}
+
+#info-container {
+    overflow: hidden;
+    white-space: nowrap;
+    font-size: 18px;
+    margin-bottom: 5px;
+    width: 144px;
+    margin-top: -8px;
+    margin-left: 9px;
+    border-color: black;
+    color: #40627f;
+}
+
+    #info-container a {
+        color: #12677a;
+    }
+
+.bigFolderIcon {
+    position: relative;
+    width: 160px;
+    height: 150px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    overflow: hidden;
+    font-size: 140px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a {
+    color: #0060B6;
+}
+
+    a:hover {
+        color: #00A0C6;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+.social-banner {
+    position: relative;
+    margin-top: 0px;
+    background-color: rgba(4, 2, 3, 0.19);
+    float: right;
+    width: auto;
+    font-size: 20px;
+    margin-right: 0;
+    height: auto;
+    border: none;
+}
+
+social-banner:hover {
+    background-color: green;
+}
+
+.social-banner .Downloadbutton {
+    display: none;
+}
+
+.social-banner .Delete {
+    display: none;
+}
+
+.social-banner .Left-side {
+    float: left;
+    display: inline-block;
+    padding: 4px;
+    transition: 0.5s ease;
+}
+
+.icon {
+    position: relative;
+    width: 32px;
+    height: 32px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: #3500d3;
+}
+
+.social-banner ul li:hover {
+    cursor: pointer;
+}
+
+.social-banner ul li {
+    float: right;
+    display: inline-block;
+    display: inline-block;
+    padding: 0;
+    transition: 0.5s ease;
+    border: none;
+    font-size: 22px;
+}
+
+.Side-Bar {
+    margin-top: -40px;
+    float: left;
+    width: 20%;
+    padding: 2em;
+    background-color: #5F5F5F;
+    height: 100%;
+}
+
+    .Side-Bar > ul > li {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: inline-block;
+    }
+
+    .Side-Bar ul > :hover {
+        background-color: #3500d3;
+    }
+
+    .Side-Bar a {
+        color: white;
+    }
+
+.list-group-item {
+    background: none;
+    margin: 0 !important;
+    border: none;
+}
+
+
+.Map-bar ul li:hover {
+    background: #12677a;
+}
+
+.Map-bar a {
+    color: #40627f;
+    font-family: Courier New, Courier, monospace;
+}
+
+    .Map-bar a:hover {
+        color: inherit;
+    }
+
+.Map-bar {
+    font-family: Courier New, Courier, monospace;
+    font-size: 18px;
+    border: none;
+    float: left;
+    width: auto;
+    background: none;
+    opacity: 1;
+}
+
+.image-upload > input {
+    display: none;
+}
+
+.file-input {
+    display: none;
+}
+
+h1 {
+    font-family: Courier New, Courier, monospace;
+    color: #40627f;
+}
+
+.navTools {
+    top: 20px;
+    border-radius: 15%;
+}
+
+.modal-dialog {
+    width: 340px;
+    position: relative;
+    margin-top: 20%;
+}
+
+.ListView .ImageBlock {
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.ListView #info-container {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    border-color: black;
+    width: auto;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 18px;
+    text-align: left;
+    color: initial;
+}
+
+.ListView .thumbnail {
+    height: 32px;
+    width: 32px;
+    z-index: 1;
+    margin-left: 9px;
+    border: none;
+    background: none;
+}
+
+.ListView #info-container a {
+    color: #12677a;
+}
+
+.ListView .container_Tools {
+    background: none;
+    margin: auto;
+    padding-top: 2px;
+    padding-right: 0;
+    position: absolute;
+    height: 25px;
+    bottom: 0;
+    left: 1px;
+    right: 0px;
+    top: 0;
+    text-align: center;
+    color: #0C0032;
+    font-size: 18px;
+    margin-bottom: 0;
+    margin-top: 10px;
+    padding-bottom: 0;
+    width: 100%;
+    border: 25px;
+    border-radius: 7px;
+    z-index: 0;
+}
+
+.ListView .Folder-Block {
+    width: 100%;
+    height: 50px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.ListView.bigFolder {
+    background: red;
+    display: block;
+}
+
+.ListView .FolderThumbnail {
+    height: 32px;
+    width: 32px;
+    z-index: 1;
+    margin-left: 9px;
+}
+
+.ListView .bigFolderIcon {
+    height: 32px;
+    width: 32px;
+    position: absolute;
+    margin-top: -9px;
+    margin-left: 9px;
+    z-index: 1;
+    font-size: 25px;
+}
+
+.ListView .Folder-Block :hover .bigFolderIcon {
+    z-index: 1;
+    font-size: 25px;
+    color: #45698f;
+}
+
+.bigImageView {
+    position: absolute;
+    display: block;
+    width: 500px;
+    height: 500px;
+    z-index: 15;
+    top: 50%;
+    left: 50%;
+    margin: 0px 0 0 -250px;
+}
+
+@media(min-width:413px) {
+    .ImageBlock + .thumbnail {
+        height: 100.19px;
+        width: 144.25px;
+    }
+
+    .noBackground {
+        background: none;
+    }
+
+    .pre-scrollable {
+        overflow-y: auto;
+    }
+
+    body {
+        overflow: hidden;
+    }
+}
+
+@media(min-width:576px) {
+
+    .ImageBlock + .thumbnail {
+        height: 100.19px;
+        width: 152.25px;
+    }
+
+    .noBackground {
+        background: none;
+    }
+
+    .pre-scrollable {
+        overflow-y: auto;
+    }
+
+    body {
+        overflow: hidden;
+    }
+}
+
+@media(min-width:768px) {
+
+    .noBackground {
+        background: none;
+    }
+
+    .ImageBlock + .thumbnail {
+        height: 129.19px;
+        width: 159.25px;
+    }
+
+    .pre-scrollable {
+        overflow-y: auto;
+    }
+
+    body {
+        overflow: hidden;
+    }
+}
+
+@media(min-width:992px) {
+    .noBackground {
+        background: none;
+    }
+
+    .ImageBlock + .thumbnail {
+        height: 129.19px;
+        width: 159.25px;
+    }
+
+    .pre-scrollable {
+        overflow-y: auto;
+    }
+
+    body {
+        overflow: hidden;
+    }
+}
+
+@media(min-width:1200px) {
+
+    .noBackground {
+        background: none;
+    }
+
+    .ImageBlock + .thumbnail {
+        height: 129.19px;
+        width: 159.25px;
+    }
+
+    .pre-scrollable {
+        overflow-y: auto;
+    }
+
+    body {
+        overflow: hidden;
+    }
+}
+
+#scoroll-style-14::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.6);
+    background-color: #CCCCCC;
+}
+
+#scoroll-style-14::-webkit-scrollbar {
+    width: 10px;
+    background-color: #F5F5F5;
+}
+
+#scoroll-style-14::-webkit-scrollbar-thumb {
+    background-color: #FFF;
+    background-image: -webkit-linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 25%, transparent 100%, rgba(0, 0, 0, 1) 75%, transparent);
+}

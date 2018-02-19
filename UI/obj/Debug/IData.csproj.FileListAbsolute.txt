@@ -1,0 +1,28 @@
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\IMGDRO\obj\Debug\IData.csprojResolveAssemblyReference.cache
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\IMGDRO\bin\IData.dll.config
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\IMGDRO\bin\IData.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\IMGDRO\bin\IData.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\IMGDRO\bin\BAL.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\IMGDRO\bin\Entity.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\IMGDRO\bin\ClassLibrary1.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\IMGDRO\bin\DB helper.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\IMGDRO\bin\BAL.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\IMGDRO\bin\Entity.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\IMGDRO\bin\ClassLibrary1.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\IMGDRO\bin\DB helper.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\IMGDRO\obj\Debug\IData.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\IMGDRO\obj\Debug\IData.pdb
+E:\Idata\IMGDRO\bin\IData.dll.config
+E:\Idata\IMGDRO\bin\IData.dll
+E:\Idata\IMGDRO\bin\IData.pdb
+E:\Idata\IMGDRO\bin\BAL.dll
+E:\Idata\IMGDRO\bin\Entity.dll
+E:\Idata\IMGDRO\bin\ClassLibrary1.dll
+E:\Idata\IMGDRO\bin\DB helper.dll
+E:\Idata\IMGDRO\bin\BAL.pdb
+E:\Idata\IMGDRO\bin\Entity.pdb
+E:\Idata\IMGDRO\bin\ClassLibrary1.pdb
+E:\Idata\IMGDRO\bin\DB helper.pdb
+E:\Idata\IMGDRO\obj\Debug\IData.csprojResolveAssemblyReference.cache
+E:\Idata\IMGDRO\obj\Debug\IData.dll
+E:\Idata\IMGDRO\obj\Debug\IData.pdb

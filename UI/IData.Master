@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="IData.Master.cs" Inherits="IData.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+      <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+
+    <title>IDataStore</title>
+    <link href="Content/css/hover-min.css" rel="stylesheet" />
+    <link href="Content/css/hover.css" rel="stylesheet" />
+    <link href="Content/css/imageModal.css" rel="stylesheet" />
+    <link href="Content/css/bootstrap.css" rel="stylesheet" type="text/css" />
+    <link href="Content/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="shortcut icon" href="Uploads/Iconshock-Real-Vista-Data-Database.ico" />
+    <link href="Content/css/dropzone.css" rel="stylesheet" />
+    <link href="Content/css/basic.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="Head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    
+    <div class="container logo-container">
+        <a href="Defualt.aspx" class="hvr-bob">
+            <h1>IData <i class="fa fa-mixcloud " aria-hidden="true"></i>
+            </h1>
+        </a>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+    <script src="Scripts/jquery-3.2.1.min.js"></script>
+    <script src="Scripts/jszip.min.js"></script>
+    <script src="Scripts/FileSaver.min.js"></script>
+    <script src="Scripts/jszip-utils.js"></script>
+    <script src="Scripts/dropzone.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/HomePage.js"></script>
+    <script src="https://use.fontawesome.com/288c284203.js"></script>
+</body>
+
+</html>
+

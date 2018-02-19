@@ -1,0 +1,25 @@
+E:\Idata\UI\bin\IData.dll.config
+E:\Idata\UI\bin\IData.dll
+E:\Idata\UI\bin\IData.pdb
+E:\Idata\UI\bin\BAL.dll
+E:\Idata\UI\bin\ClassLibrary1.dll
+E:\Idata\UI\bin\Entity.dll
+E:\Idata\UI\bin\System.Web.Http.dll
+E:\Idata\UI\bin\System.Web.Http.SelfHost.dll
+E:\Idata\UI\bin\System.Web.Http.WebHost.dll
+E:\Idata\UI\bin\DB helper.dll
+E:\Idata\UI\bin\System.Net.Http.Formatting.dll
+E:\Idata\UI\bin\Newtonsoft.Json.dll
+E:\Idata\UI\bin\BAL.pdb
+E:\Idata\UI\bin\ClassLibrary1.pdb
+E:\Idata\UI\bin\Entity.pdb
+E:\Idata\UI\bin\System.Web.Http.xml
+E:\Idata\UI\bin\System.Web.Http.SelfHost.xml
+E:\Idata\UI\bin\System.Web.Http.WebHost.xml
+E:\Idata\UI\bin\DB helper.pdb
+E:\Idata\UI\bin\System.Net.Http.Formatting.xml
+E:\Idata\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\Idata\UI\obj\Debug\Interop.WSHControllerLibrary.dll
+E:\Idata\UI\obj\Debug\UI.csproj.ResolveComReference.cache
+E:\Idata\UI\obj\Debug\IData.dll
+E:\Idata\UI\obj\Debug\IData.pdb

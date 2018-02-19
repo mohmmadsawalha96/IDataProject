@@ -1,0 +1,5 @@
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\IMGDRO\bin\IMGDRO.dll.config
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\IMGDRO\bin\IMGDRO.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\IMGDRO\bin\IMGDRO.pdb
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\IMGDRO\obj\Debug\IMGDRO.dll
+C:\Users\Samer Alkayyali\Documents\Visual Studio 2013\Projects\imgDrop\IMGDRO\obj\Debug\IMGDRO.pdb
